@@ -1,4 +1,4 @@
-### 部署到 Replit 👉 [![Run on Replit](https://replit.com/badge/github/alanlichen/dpp-on-repl)](https://replit.com/github/xiaowansm5/hello-repl-V2)
+### 部署到 Replit 👉 [![Run on Replit](https://replit.com/badge/github/alanlichen/dpp-on-repl)](https://replit.com/github/jamesvillecadf/replit)
 
 ---------------------
 
